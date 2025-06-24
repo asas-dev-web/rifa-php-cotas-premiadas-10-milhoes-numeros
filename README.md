@@ -22,7 +22,7 @@
   <img src="https://www.pluginthemebr.com/wp-content/uploads/2024/03/111.png" alt="Tela 4" width="200" style="margin: 10px;" />
 </div>
 
-> _As imagens acima representam partes do painel do sistema._
+> _As imagens acima representam partes da interface do sistema._
 
 ---
 
