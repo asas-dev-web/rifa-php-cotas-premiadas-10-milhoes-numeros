@@ -7,9 +7,9 @@
   </a>
 </p>
  
-  <div style="display: inline-flex; gap: 20px;">
+  <!--div style="display: inline-flex; gap: 20px;">
     <img src="img_1.png" alt="Imagem 1" width="300">
     <img src="img_2.png" alt="Imagem 2" width="300">
-  </div>
+  </div-->
   <br>
 </div>
