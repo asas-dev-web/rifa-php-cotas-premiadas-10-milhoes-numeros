@@ -1,4 +1,3 @@
-# rifa-php-cotas-premiadas-10-milhoes-numeros
 <div align="center">
   <br>
   <h1>Sistema de rifa php cotas-premiadas 10-milhões-numeros</h1>  
