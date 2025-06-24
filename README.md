@@ -13,90 +13,119 @@
   </div-->
   <br>
 </div>
-🏆 Script Rifa Premium PHP – 10 Milhões de Números
-A solução definitiva para rifas online de grande escala, com afiliados, cotas premiadas e integração com 8 gateways de pagamento. Ideal para empreendedores que buscam desempenho, automação e segurança.
+<h2>🏆 Script Rifa Premium PHP – 10 Milhões de Números</h2>h2>
 
-🚀 Recursos Principais
-🔢 Até 10 Milhões de Cotas – Capacidade massiva sem lentidão.
+<div align="center">
+  <img src="https://www.pluginthemebr.com/wp-content/uploads/2024/03/111.png" alt="Tela 1" width="200" style="margin: 10px;" />
+  <img src="https://www.pluginthemebr.com/wp-content/uploads/2024/03/111.png" alt="Tela 2" width="200" style="margin: 10px;" />
+  <img src="https://www.pluginthemebr.com/wp-content/uploads/2024/03/111.png" alt="Tela 3" width="200" style="margin: 10px;" />
+  <img src="https://www.pluginthemebr.com/wp-content/uploads/2024/03/111.png" alt="Tela 4" width="200" style="margin: 10px;" />
+</div>
 
-🧩 Sistema de Afiliados – Comissões automáticas por vendas.
+> _As imagens acima representam partes do painel do sistema._
 
-🎁 Cotas Premiadas – Cliente sabe na hora se foi premiado.
+---
 
-💬 Integração WhatsApp API – Notificações em tempo real e mensagens pré-configuradas.
+## 🧩 Descrição
 
-🧾 Compra com Anexo no E-mail – Confirmações automáticas para o cliente.
+A solução definitiva para rifas online de grande escala, com **afiliados**, **cotas premiadas**, integração com **8 gateways de pagamento** e suporte via **WhatsApp API**. Ideal para empreendedores que buscam **desempenho**, **automação** e **segurança**.
 
-🔐 Segurança Avançada – Proteção de dados e transações.
+---
 
-🛍️ Venda Manual e Automática – Escolha ou randomize números.
+## 🚀 Recursos Principais
 
-📲 QR Code PIX, Cópia e Cola – Transações rápidas e simples.
+- 🔢 **Até 10 Milhões de Cotas** – Capacidade massiva sem lentidão  
+- 🧩 **Sistema de Afiliados** – Comissões automáticas por vendas  
+- 🎁 **Cotas Premiadas** – Cliente sabe na hora se foi premiado  
+- 💬 **Integração WhatsApp API** – Notificações em tempo real e mensagens pré-configuradas  
+- 🧾 **Compra com Anexo no E-mail** – Confirmações automáticas para o cliente  
+- 🔐 **Segurança Avançada** – Proteção de dados e transações  
+- 🛍️ **Venda Manual e Automática** – Escolha ou randomize números  
+- 📲 **QR Code PIX, Cópia e Cola** – Transações rápidas e simples  
+- 🖼️ **Design Profissional** – Interface intuitiva e responsiva  
 
-🖼️ Design Profissional – Interface intuitiva e responsiva.
+---
 
-⚙️ Funcionalidades
-👥 Cadastro e login simplificados
+## ⚙️ Funcionalidades
 
-🎟️ Criação e gestão de rifas ilimitadas
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-🔄 Sorteios automáticos e imparciais
+<div style="width: 48%;">
 
-📊 Relatórios de vendas e ranking de compradores
+- 👥 Cadastro e login simplificados  
+- 🎟️ Criação e gestão de rifas ilimitadas  
+- 🔄 Sorteios automáticos e imparciais  
+- 📅 Controle de reserva por tempo  
+- 🧠 Promoções e descontos progressivos  
+- 🐄 Rifas de Grupo / Fazendinha (meio bicho e bicho inteiro)  
+- 📇 Lista de participantes por rifa  
 
-📅 Controle de reserva por tempo
+</div>
 
-📥 Download de comprovante de compra
+<div style="width: 48%;">
 
-🧠 Promoções e descontos progressivos
+- 📥 Download de comprovante de compra  
+- 💡 Consulta por telefone com opção de pagamento  
+- 🔎 Filtro de ranking diário e semanal  
+- 📊 Relatórios de vendas e ranking de compradores  
+- 🧮 Estatísticas completas no painel admin  
+- 💬 Botão WhatsApp com mensagens pré-configuradas  
+- 🚫 Cancelamento automático de pedidos não pagos  
 
-🐄 Rifas de Grupo / Fazendinha (meio bicho e bicho inteiro)
+</div>
 
-📇 Lista de participantes por rifa
+</div>
 
-💡 Consulta por telefone com opção de pagamento
+---
 
-🧮 Estatísticas completas no painel admin
+## 💸 Gateways de Pagamento Compatíveis
 
-🔎 Filtro de ranking diário e semanal
+✅ Mercado Pago  
+✅ Gerencianet (Efi)  
+✅ Paggue  
+✅ Pagstar  
+✅ OpenPix  
+✅ Pay2M  
+✅ EzzePay  
+✅ NextPay  
 
-💸 Gateways de Pagamento Compatíveis (✅)
-Mercado Pago
+---
 
-Gerencianet (Efi)
+## 📢 Comunicação e Engajamento
 
-Paggue
+- 📱 Notificações via WhatsApp API  
+- 🔔 Alertas de venda em tempo real  
+- 📣 Promoções por rifa e por número  
+- 📤 Mensagens automáticas após compra  
+- 📈 Engajamento com ranking dos compradores  
 
-Pagstar
+---
 
-OpenPix
+## ✨ Novidades e Melhorias
 
-Pay2M
+- ✅ Sistema super rápido para escolha de números aleatórios  
+- ✅ CheckAuto estilizado  
+- ✅ Aviso instantâneo de cotas premiadas  
+- ✅ Deleção automática de pedidos expirados  
+- ✅ Geração de lista de participantes por rifa  
+- ✅ Filtro de ranking diário e semanal  
+- ✅ Cliente pode baixar comprovante da compra  
+- ✅ Promoção de números por lote  
+- ✅ Vendas manuais e automáticas configuráveis  
 
-EzzePay
+---
 
-NextPay
+> 💡 **Observação:** Não requer instalação. Suporte técnico especializado incluso.
 
-📢 Comunicação e Engajamento
-📱 Notificações via WhatsApp API
+---
 
-🔔 Alertas de venda em tempo real
+## 📞 Suporte
 
-💬 Comunicação com clientes pelo botão de WhatsApp
+Para dúvidas, personalizações ou instalação:  
+📧 Email: suporte@seudominio.com  
+📱 WhatsApp: [Clique aqui para entrar em contato](https://wa.me/SEUNUMERO)
 
-📢 Promoções por rifa e por número
 
-✨ Novidades e Melhorias
-✅ CheckAuto estilizado
 
-✅ Aviso imediato se a cota foi premiada
 
-✅ Sistema apaga pedidos não pagos automaticamente
 
-✅ Geração automática da lista de participantes
-
-✅ Sistema super rápido para seleção de números aleatórios
-
-✅ Relatório completo + exportações
-
-✅ Filtros de ranking atualizados
