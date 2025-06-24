@@ -2,7 +2,7 @@
   <br>
   <h1>Sistema de rifa php cotas-premiadas 10-milhões-numeros</h1>  
 <p>
-  <a href="https://https://xsorte.alysson.shop/">
+  <a href="https://xsorte.alysson.shop/">
     <img src="https://img.shields.io/badge/Site%20Demonstração-Acessar-0d6efd?style=for-the-badge" alt="Site Demonstração">
   </a>
 </p>
