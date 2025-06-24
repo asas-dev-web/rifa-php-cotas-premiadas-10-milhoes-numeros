@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>Sistema de rifa php cotas-premiadas 10-milhões-numeros</h1>  
+  <h2>Sistema de rifa php cotas-premiadas 10-milhões-numeros</h2>  
 <p>
   <a href="https://xsorte.alysson.shop/">
     <img src="https://img.shields.io/badge/Site%20Demonstração-Acessar-0d6efd?style=for-the-badge" alt="Site Demonstração">
