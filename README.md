@@ -121,7 +121,8 @@ A solução definitiva para rifas online de grande escala, com **afiliados**, **
 Para dúvidas, personalizações ou instalação:  
 📧 Email: alysson@asasdev.com.br <br>
 📱 WhatsApp: [Clique aqui para entrar em contato](https://wa.me/5511914336999)
-
+📸 [Instagram](https://www.instagram.com/alysson.s.almeida/)
+✈️ [Telegram](https://t.me/asas_dev)
 
 
 
