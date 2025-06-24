@@ -119,10 +119,10 @@ A solução definitiva para rifas online de grande escala, com **afiliados**, **
 ## 📞 Suporte
 
 Para dúvidas, personalizações ou instalação:  
-📧 [Email](alysson@asasdev.com.br) <br>
-📱 [WhatsApp](https://wa.me/5511914336999)<br>
-📸 [Instagram](https://www.instagram.com/alysson.s.almeida/)<br>
-✈️ [Telegram](https://t.me/asas_dev)<br>
+📧  [Email](mailto:alysson@asasdev.com.br) <br>
+📱  [WhatsApp](https://wa.me/5511914336999)<br>
+📸  [Instagram](https://www.instagram.com/alysson.s.almeida/)<br>
+✈️  [Telegram](https://t.me/asas_dev)<br>
 
 
 
