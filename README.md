@@ -16,7 +16,7 @@
 <h2>🏆 Script Rifa Premium PHP – 10 Milhões de Números</h2>
 
 <div align="center">
-  <img src="https://www.pluginthemebr.com/wp-content/uploads/2024/03/111.png" alt="Tela 1" width="200" style="margin: 10px;" />
+  <img src="img-README/111.png" alt="Tela 1" width="200" style="margin: 10px;" />
   <img src="https://www.pluginthemebr.com/wp-content/uploads/2024/03/111.png" alt="Tela 2" width="200" style="margin: 10px;" />
   <img src="https://www.pluginthemebr.com/wp-content/uploads/2024/03/111.png" alt="Tela 3" width="200" style="margin: 10px;" />
   <img src="https://www.pluginthemebr.com/wp-content/uploads/2024/03/111.png" alt="Tela 4" width="200" style="margin: 10px;" />
