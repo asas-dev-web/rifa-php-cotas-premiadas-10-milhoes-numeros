@@ -11,7 +11,6 @@
     <img src="img_1.png" alt="Imagem 1" width="300">
     <img src="img_2.png" alt="Imagem 2" width="300">
   </div-->
-  <br>
 </div>
 <div align="center">
 <h2>🏆 Script Rifa Premium PHP – 10 Milhões de Números</h2>
