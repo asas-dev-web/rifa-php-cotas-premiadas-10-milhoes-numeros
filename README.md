@@ -13,7 +13,7 @@
   </div-->
   <br>
 </div>
-<h2>🏆 Script Rifa Premium PHP – 10 Milhões de Números</h2>h2>
+<h2>🏆 Script Rifa Premium PHP – 10 Milhões de Números</h2>
 
 <div align="center">
   <img src="https://www.pluginthemebr.com/wp-content/uploads/2024/03/111.png" alt="Tela 1" width="200" style="margin: 10px;" />
@@ -115,15 +115,15 @@ A solução definitiva para rifas online de grande escala, com **afiliados**, **
 
 ---
 
-> 💡 **Observação:** Não requer instalação. Suporte técnico especializado incluso.
+> 💡 **Observação:** Requer conhecimentos para a instalação e Suporte técnico especializado.
 
 ---
 
 ## 📞 Suporte
 
 Para dúvidas, personalizações ou instalação:  
-📧 Email: suporte@seudominio.com  
-📱 WhatsApp: [Clique aqui para entrar em contato](https://wa.me/SEUNUMERO)
+📧 Email: alysson@asasdev.com.br 
+📱 WhatsApp: [Clique aqui para entrar em contato](https://wa.me/5511914336999)
 
 
 
