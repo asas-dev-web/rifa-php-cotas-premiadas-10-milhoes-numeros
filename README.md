@@ -13,7 +13,9 @@
   </div-->
   <br>
 </div>
+<div align="center">
 <h2>🏆 Script Rifa Premium PHP – 10 Milhões de Números</h2>
+</div>
 
 <div align="center">
   <img src="img-README/111.png" alt="Tela 1" width="200" style="margin: 10px;" />
@@ -76,7 +78,7 @@ A solução definitiva para rifas online de grande escala, com **afiliados**, **
 ## 💸 Gateways de Pagamento Compatíveis
 
 ✅ Mercado Pago  
-✅ Gerencianet (Efi)  
+✅ GerenciaNet (Efi)  
 ✅ Paggue  
 ✅ Pagstar  
 ✅ OpenPix  
@@ -101,7 +103,7 @@ A solução definitiva para rifas online de grande escala, com **afiliados**, **
 - ✅ Sistema super rápido para escolha de números aleatórios  
 - ✅ CheckAuto estilizado  
 - ✅ Aviso instantâneo de cotas premiadas  
-- ✅ Deleção automática de pedidos expirados  
+- ✅ Cancela automáticamente de pedidos expirados  
 - ✅ Geração de lista de participantes por rifa  
 - ✅ Filtro de ranking diário e semanal  
 - ✅ Cliente pode baixar comprovante da compra  
