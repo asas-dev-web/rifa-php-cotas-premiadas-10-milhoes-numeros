@@ -112,7 +112,7 @@ A solução definitiva para rifas online de grande escala, com **afiliados**, **
 
 ---
 
-> 💡 **Observação:** Requer conhecimentos para a instalação e Suporte técnico especializado.
+> 💡 **Observação:** Requer conhecimentos para a instalação ou Suporte técnico especializado.
 
 ---
 
