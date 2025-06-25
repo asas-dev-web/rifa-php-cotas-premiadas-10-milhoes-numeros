@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-    <img src="img-README/1.gif" alt="Tela 4" width="200" style="margin: 10px;" /> 
+    <img src="img-README/1.gif" alt="Tela 5" width="300" style="margin: 10px;" /> 
   <!--img src="img-README/3.png" alt="Tela 1" width="200" style="margin: 10px;" />
   <img src="img-README/2.png" alt="Tela 2" width="200" style="margin: 10px;" />
   <img src="img-README/1.png" alt="Tela 3" width="200" style="margin: 10px;" />
