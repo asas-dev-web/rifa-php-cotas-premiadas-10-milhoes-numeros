@@ -4,8 +4,7 @@
   <a href="https://xsorte.alysson.shop/">
     <img src="https://img.shields.io/badge/Site%20Demonstração-Acessar-0d6efd?style=for-the-badge" alt="Site Demonstração">
   </a>
- </p>
- 
+ </p> 
   <!--div style="display: inline-flex; gap: 20px;">
     <img src="img_1.png" alt="Imagem 1" width="300">
     <img src="img_2.png" alt="Imagem 2" width="300">
