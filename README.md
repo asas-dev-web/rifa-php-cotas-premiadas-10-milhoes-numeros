@@ -1,4 +1,4 @@
- 🏆 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Script+Rifa+Premium+PHP+-+10+Milhões+de+números;Sistema+de+rifa+php+cotas+premiadas+10+milhões+números)](https://asasdev.com.br)
+ 🏆 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Script+Rifa+Premium+PHP+10+Milhões+de+números;Sistema+de+rifa+php+cotas+premiadas+10+milhões+números)](https://asasdev.com.br)
 <div align="center">
   <br>
   <!--h2>Sistema de rifa php cotas-premiadas 10-milhões-números</h2--> 
