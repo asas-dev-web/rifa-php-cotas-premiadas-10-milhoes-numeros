@@ -1,5 +1,4 @@
 <div align="center">
-  <h2>🏆 Sistema de rifa php cotas-premiadas 10-milhões-números</h2> 
   <h2>🏆 Script Rifa Premium PHP – 10 Milhões de Números</h2>
 <p>
   <a href="https://xsorte.alysson.shop/">
@@ -14,7 +13,7 @@
   </div-->
 </div>
 <div align="center">
-<h2>🏆 Script Rifa Premium PHP – 10 Milhões de Números</h2>
+<h2>🏆 Sistema de rifa php cotas-premiadas 10-milhões-números</h2> 
 </div>
 
 <div align="center">
